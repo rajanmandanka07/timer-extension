@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Timer Extension",
+    "version": "1.0",
+    "description": "A simple timer extension",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "index.html"
+    },
+    "icons": {
+      "256": "clock.png"
+    },
+    "background": {
+      "scripts": ["popup.js"],
+      "persistent": true
+    },
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+  }
+  
