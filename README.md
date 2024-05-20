@@ -17,7 +17,7 @@ Click on the extension icon in the Chrome toolbar to open the timer. You can sta
 
 ## Screenshots
 
-![Screenshot 2024-05-16 232348](https://github.com/rajanmandanka07/timer-extension/assets/119439834/76dde18b-bdd1-4c06-af80-4566d32bdc5a)
+![Screenshot 2024-05-20 153659](https://github.com/rajanmandanka07/timer-extension/assets/119439834/886295ce-5605-4d31-b866-00aed45b11ea)
 
 ## Credits
 
